@@ -18,10 +18,10 @@ android {
         // TasmotaController에서 사용하는 BuildConfig 필드 정의 (기존 FIX 유지)
         // iotsentilight@gmail.com
         // buildConfigField "String", "SENTILIGHT_LLM_API_KEY", "\"AIzaSyA3vEe-JeYL9MCY9rtTlc5p21NYYSD9ZmI\""
-        // firstsentilight@gmail.com
-        // buildConfigField "String", "SENTILIGHT_LLM_API_KEY", "\"AIzaSyA3vEe-JeYL9MCY9rtTlc5p21NYYSD9ZmI\""
-        // secondsentilight@gmail.com
-        buildConfigField "String", "SENTILIGHT_LLM_API_KEY", "\"AIzaSyA3vEe-JeYL9MCY9rtTlc5p21NYYSD9ZmI\""
+        // artescholar@gmail.com
+        // buildConfigField "String", "SENTILIGHT_LLM_API_KEY", "\"AIzaSyDYwiR43PI2k3kCRfd_8TqO3aczu7XzMHc\""
+        // 2prayerslab@gmail.com
+        buildConfigField "String", "SENTILIGHT_LLM_API_KEY", "\"AIzaSyDf1mEWb0PtMejn7u_VHVhYbmcOw_qqsy0\""
     }
 
     buildTypes {
